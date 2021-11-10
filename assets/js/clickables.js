@@ -24,3 +24,12 @@ let pbrainDiv = document.getElementById("pbrain");
 pbrainDiv.addEventListener('click', () => {
     window.open('https://pbrain-app.herokuapp.com/', '_blank').focus();
 })
+
+
+/////////////////////////////////////////////////////////////////////////////////////
+
+let medievalBNBDiv = document.getElementById("medieval-bnb");
+
+medievalBNBDiv.addEventListener('click', () => {
+    window.open('https://medieval-bnb.herokuapp.com/', '_blank').focus();
+})
