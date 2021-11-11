@@ -2306,7 +2306,7 @@ input, select, textarea {
 
 		ul.icons li {
 			display: inline-block;
-			padding: 0 1em 0 0;
+			padding: .5em 1em 0 0;
 			font-size: 5rem;
 		}
 
@@ -2793,8 +2793,8 @@ input, select, textarea {
 	}
 
 		.wrapper > .inner {
-			/* width: 60em; */
-			width: 85em;
+			width: 60em;
+			/* width: 85em; */
 			margin: 0 auto;
 		}
 
