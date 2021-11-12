@@ -46,5 +46,6 @@ medievalBNBDiv.addEventListener('click', () => {
 let resumeSpan = document.getElementById("resume_span");
 
 resumeSpan.addEventListener('click', () => {
-    console.log("resume clicked");
+    // console.log("resume clicked");
+    window.open('https://drive.google.com/file/d/1K4SMiWKBOTgfbAX7JOVZoGoz936gYx4g/view?usp=sharing', '_blank').focus();
 })
