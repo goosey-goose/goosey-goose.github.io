@@ -41,4 +41,5 @@ let viewMyResume = document.getElementById("view_my_resume");
 
 viewMyResume.addEventListener('click', () => {
     console.log("clicked");
+    window.alert("yooooooololo");
 })
