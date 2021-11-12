@@ -4010,3 +4010,7 @@ input, select, textarea {
 	#view_my_resume {
 		margin-bottom: 2em;
 	}
+
+	#resume_span {
+		cursor: pointer;
+	}
