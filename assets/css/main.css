@@ -4013,4 +4013,5 @@ input, select, textarea {
 
 	#resume_span {
 		cursor: pointer;
+		border-bottom: dotted 1px;
 	}
