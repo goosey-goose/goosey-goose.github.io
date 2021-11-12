@@ -33,3 +33,12 @@ let medievalBNBDiv = document.getElementById("medieval-bnb");
 medievalBNBDiv.addEventListener('click', () => {
     window.open('https://medieval-bnb.herokuapp.com/', '_blank').focus();
 })
+
+
+/////////////////////////////////////////////////////////////////////////////////////
+
+let viewMyResume = document.getElementById("view_my_resume");
+
+viewMyResume.addEventListener('click', () => {
+    console.log("clicked");
+})
