@@ -4006,3 +4006,7 @@ input, select, textarea {
 	#about.about_me {
 		background-color: #587973;
 	}
+
+	#view_my_resume {
+		margin-bottom: 2em;
+	}
