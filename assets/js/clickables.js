@@ -40,5 +40,5 @@ medievalBNBDiv.addEventListener('click', () => {
 let viewMyResume = document.getElementById("view_my_resume");
 
 viewMyResume.addEventListener('click', () => {
-    console.log(viewMyResume);
+    console.log(viewMyResume.children);
 })
