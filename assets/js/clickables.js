@@ -39,6 +39,6 @@ medievalBNBDiv.addEventListener('click', () => {
 
 let viewMyResume = document.getElementById("view_my_resume");
 
-viewMyResume.children[0].innerTextaddEventListener('click', () => {
+viewMyResume.children[0].innerText.addEventListener('click', () => {
     console.log(viewMyResume.children[0].innerText);
 })
