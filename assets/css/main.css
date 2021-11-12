@@ -4015,3 +4015,8 @@ input, select, textarea {
 		cursor: pointer;
 		border-bottom: dotted 1px;
 	}
+
+	#project_intro_paragraph {
+		max-width: 52em;
+		margin: auto;
+	}
