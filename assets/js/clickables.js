@@ -37,8 +37,14 @@ medievalBNBDiv.addEventListener('click', () => {
 
 /////////////////////////////////////////////////////////////////////////////////////
 
-let viewMyResume = document.getElementById("view_my_resume");
+// let viewMyResume = document.getElementById("view_my_resume");
 
-viewMyResume.children[0].innerText.addEventListener('click', () => {
-    console.log(viewMyResume.children[0].innerText);
+// viewMyResume.children[0].innerText.addEventListener('click', () => {
+//     console.log(viewMyResume.children[0].innerText);
+// })
+
+let resumeSpan = document.getElementById("resume_span");
+
+resumeSpan.addEventListener('click', () => {
+    console.log("resume clicked");
 })
