@@ -3587,6 +3587,8 @@ input, select, textarea {
 		overflow: hidden;
 		position: relative;
 		text-align: center;
+		background-image: url('../../images/Screenshot 2021-11-09 153619.png');
+		background-size: cover;
 	}
 
 		#banner h2 {
