@@ -22,7 +22,7 @@ ketchupDiv.addEventListener('click', () => {
 let pbrainDiv = document.getElementById("pbrain");
 
 pbrainDiv.addEventListener('click', () => {
-    window.open('https://pbrain-app.herokuapp.com/', '_blank').focus();
+    window.open('https://p-brain.herokuapp.com/', '_blank').focus();
 })
 
 
