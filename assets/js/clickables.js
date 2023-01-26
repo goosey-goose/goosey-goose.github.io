@@ -9,11 +9,11 @@ watchItDiv.addEventListener('click', () => {
 /////////////////////////////////////////////////////////////////////////////////////
 
 
-let ketchupDiv = document.getElementById("ketchup");
+// let ketchupDiv = document.getElementById("ketchup");
 
-ketchupDiv.addEventListener('click', () => {
-    window.open('https://aa-ketchup.herokuapp.com/', '_blank').focus();
-})
+// ketchupDiv.addEventListener('click', () => {
+//     window.open('https://aa-ketchup.herokuapp.com/', '_blank').focus();
+// })
 
 
 /////////////////////////////////////////////////////////////////////////////////////
