@@ -46,6 +46,7 @@ medievalBNBDiv.addEventListener('click', () => {
 let resumeSpan = document.getElementById("resume_span");
 
 //  DELETE
+console.log("eben");
 console.log(resumeSpan);
 
 resumeSpan.addEventListener('click', () => {
