@@ -47,5 +47,5 @@ let resumeSpan = document.getElementById("resume_span");
 
 resumeSpan.addEventListener('click', () => {
     // console.log("resume clicked");
-    window.open('https://drive.google.com/file/d/1s7nEILY7Coo06vDiktUKULVGfe-p6bxz/view?usp=sharing', '_blank').focus();
+    window.open('https://drive.google.com/file/d/1tL1Dar7QMimVgI3tORhHK3qqcQLFCBu_/view?usp=share_link', '_blank').focus();
 })
